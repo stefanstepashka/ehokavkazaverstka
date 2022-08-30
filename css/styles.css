@@ -21,7 +21,7 @@ li {
 }
 
 header {
-  background: url("img/wholepicture.png") no-repeat center top/cover;
+  background: url("../img/pic.png") no-repeat center top/cover;
   padding-bottom: 200px;
 }
 
@@ -931,7 +931,7 @@ input[type=text]:focus {
     width: 720px;
   }
   header {
-    background: url(/img/08.png) no-repeat center top/cover;
+    background: url("../img/pic.png") no-repeat center top/cover;
     padding-bottom: 200px;
     background-attachment: fixed;
   }
@@ -1319,7 +1319,7 @@ input[type=text]:focus {
     min-height: 494px;
   }
   header {
-    background: url(/img/08.png) no-repeat center top/cover;
+    background: url("../img/pic.png") no-repeat center top/cover;
     padding-bottom: 200px;
     background-attachment: fixed;
     background-size: cover;
@@ -1516,7 +1516,7 @@ input[type=text]:focus {
     font-size: 55px;
   }
   header {
-    background: url(/img/08.png) no-repeat center top/cover;
+    background: url("../img/pic.png") no-repeat center top/cover;
     padding-bottom: 200px;
     background-attachment: initial;
     background-size: unset;
